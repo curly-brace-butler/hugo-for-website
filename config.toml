@@ -1,4 +1,4 @@
-baseURL = "http://johnathanbutler.com"
+baseURL = "https://johnathanbutler.com/"
 languageCode = "en-us"
 title = "Johnathan Butler"
 theme = "avicenna"
