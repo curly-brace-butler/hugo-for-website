@@ -1,4 +1,4 @@
-baseURL = "https://curly-brace-butler.github.io"
+baseURL = "http://johnathanbutler.com"
 languageCode = "en-us"
 title = "Johnathan Butler"
 theme = "avicenna"
