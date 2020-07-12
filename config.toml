@@ -8,34 +8,34 @@ timeout=3000
 [params]
   subtitle= "Software Developer"
   interests="Cloud Infrastructure, Game Development"
-  cv_name= "HadiSinaee_CV.pdf"
-  blog="http://myblog.edu"
+  # cv_name= "HadiSinaee_CV.pdf"
+  # blog="http://myblog.edu"
 
 [[params.affilation]]
   name = "Unity Technologies"
   position = "Software Engineer Intern"
   contact = "non-plaintext-email@todo.com"
 
-[[params.affilation]]
-  name = "MyCoolStartup"
-  position = "Co-Founder"
-  contact = "non-plaintext-email@todo.com"
+#[[params.affilation]]
+#  name = "MyCoolStartup"
+#  position = "Co-Founder"
+#  contact = "non-plaintext-email@todo.com"
 
 [[params.social]]
   name = "GitHub"
   icon = "github"
-  url = "https://github.com/hadisinaee"
+  url = "https://github.com/curly-brace-butler"
 
-[[params.social]]
-  name = "Twitter"
-  icon = "twitter"
-  url = "https://twitter.com/hadisinaee"
+#[[params.social]]
+#  name = "Twitter"
+#  icon = "twitter"
+#  url = "https://twitter.com/hadisinaee"
 
 
 [[params.social]]
   name = "LinkedIn"
   icon = "linkedin"
-  url = "https://linkedin.com/in/hadisinaee/"
+  url = "https://www.linkedin.com/in/johnathan-butler-62531a195/"
 
 
 [[params.introduction.paragraph]]

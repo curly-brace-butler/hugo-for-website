@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>johnathanbutler.com/categories/</loc>
+    <loc>https://johnathanbutler.com/categories/</loc>
   </url>
   
   <url>
-    <loc>johnathanbutler.com/</loc>
+    <loc>https://johnathanbutler.com/</loc>
   </url>
   
   <url>
-    <loc>johnathanbutler.com/tags/</loc>
+    <loc>https://johnathanbutler.com/tags/</loc>
   </url>
   
 </urlset>
