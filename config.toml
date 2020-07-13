@@ -39,7 +39,7 @@ timeout=3000
 
 
 [[params.introduction.paragraph]]
-  text="""I am a software engineer and indie development hobbyist. Currently, I'm working as a Software Engineer intern working on cloud infrastructure for Unity Technologies. I am developing an unannounced detective RPG and plan to host any games I produce during 'game jams' on this site."""
+  text="""I am a software engineer and indie development hobbyist. Currently, I'm working on a cloud infrastructure project as a software engineering intern at Unity Technologies. I am developing an unannounced detective RPG and plan to host any games I produce during 'game jams' on this site."""
 [[params.introduction.paragraph]]
   text=""" Previously, I taught introductory programming and received my B.S. in Computer Science from the Paul G. Allen School of Computer Science & Engineering at the University of Washington."""
 
