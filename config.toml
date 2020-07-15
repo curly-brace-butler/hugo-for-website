@@ -39,9 +39,9 @@ timeout=3000
 
 
 [[params.introduction.paragraph]]
-  text="""I am a software engineer and indie development hobbyist. Currently, I'm working on a cloud infrastructure project as a software engineering intern at Unity Technologies. I am developing an unannounced detective RPG and plan to host any games I produce during 'game jams' on this site."""
+  text="""I am a software engineer and indie development hobbyist. Currently, I am working on cloud simulations infrastructure for Unity Technologies. I chose Unity because I love games and believe that making games is an exciting avenue toward self-expression and creative growth. I believe this joy should be accessible to anyone, regardless of their ethnicity, gender, sexuality, or other aspects of their identity."""
 [[params.introduction.paragraph]]
-  text=""" Previously, I taught introductory programming and received my B.S. in Computer Science from the Paul G. Allen School of Computer Science & Engineering at the University of Washington."""
+  text=""" Previously, I taught introductory programming and received my B.S. in Computer Science from the Paul G. Allen School of Computer Science & Engineering at the University of Washington. In my free time, I am developing an unannounced detective RPG and plan to host any games I produce during 'game jams' on this site."""
 
 
 [[params.projects]]
@@ -56,9 +56,9 @@ timeout=3000
   #year="2020"
 
   [[params.publications.paper]]
-		name = "Feugiat sed lectus vestibulum mattis ullamcorper velit sed"
-		authors = "Lorem Ipsum, Johnathan Butler"
-		dest  = "Lorem Ipsum Journal"
+		name = "Survey of Game Anti-cheat Technologies"
+		authors = "Corbin Modica, Johnathan Butler"
+		#dest  = "Lorem Ipsum Journal"
 		link = "https://mypaperishere.com"
 		#code_link = "https://thecoderepo.com"
 		#blog_link = ""
