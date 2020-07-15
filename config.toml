@@ -41,7 +41,7 @@ timeout=3000
 [[params.introduction.paragraph]]
   text="""I am a software engineer and indie development hobbyist. Currently, I am working on cloud simulations infrastructure for Unity Technologies. Previously, I taught introductory programming and received my B.S. in Computer Science from the Paul G. Allen School of Computer Science & Engineering at the University of Washington. In my free time, I am developing an unannounced detective RPG and plan to host games I produce during 'game jams' on this site."""
 [[params.introduction.paragraph]]
-  text="""I chose Unity because I love games and believe that making games is an exciting avenue toward self-expression and creative growth. I believe this joy should be accessible to anyone, regardless of their ethnicity, gender, sexuality, or other aspects of identity."""
+  text="""I believe games are awesome and believe in them as an avenue toward creative growth and self expression. I also think it important that this joy should be accessible to anyone, regardless of their ethnicity, gender, sexuality, or other aspects of identity."""
 
 
 [[params.projects]]
