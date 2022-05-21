@@ -1,64 +1,24 @@
-baseURL = "https://johnathanbutler.com/"
+baseURL = "https://johnathanbutler.com"
+
+# set your your own ga token here.
+# googleAnalytics = "UA/G-123123-12"
+
 languageCode = "en-us"
-title = "Johnathan Butler"
+enableEmoji = true
 theme = "avicenna"
-# googleAnalytics = "UA-1234-6"
-timeout=3000
+
+# This is your page title, it appears in your tab
+title = "Johnathan Butler"
+
+# number of posts to show on the blog page
+paginate = 10
+
+[markup]
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 1
 
 [params]
-  subtitle= "Software Developer"
-  interests="Cloud Infrastructure, Programming Languages, Game Development, Photography."
-  # cv_name= "HadiSinaee_CV.pdf"
-  # blog="http://myblog.edu"
-
-[[params.affilation]]
-  name = "Unity Technologies"
-  position = "Software Engineer Intern"
-  contact = "non-plaintext-email@todo.com"
-
-#[[params.affilation]]
-#  name = "MyCoolStartup"
-#  position = "Co-Founder"
-#  contact = "non-plaintext-email@todo.com"
-
-[[params.social]]
-  name = "GitHub"
-  icon = "github"
-  url = "https://github.com/curly-brace-butler"
-
-#[[params.social]]
-#  name = "Twitter"
-#  icon = "twitter"
-#  url = "https://twitter.com/hadisinaee"
-
-
-[[params.social]]
-  name = "LinkedIn"
-  icon = "linkedin"
-  url = "https://www.linkedin.com/in/johnathan-butler-62531a195/"
-
-
-[[params.introduction.paragraph]]
-  text="""I am a software engineer and indie game development hobbyist. Currently, I work for Unity Technologies on cloud simulation infrastructure. Previously, I taught introductory programming and received my B.S. in Computer Science from the Paul G. Allen School of Computer Science & Engineering at the University of Washington."""
-[[params.introduction.paragraph]]
-  text="""In my free time, I am developing an unannounced detective RPG and will host games I produce during 'game jams' on this site. I am passionate about games and see them as an avenue toward creative growth and self expression. I believe in the importance that creative tools be accessible to anyone, regardless of their ethnicity, gender, or other aspects of identity."""
-
-
-[[params.projects]]
-	[[params.projects.project]]
-		name = "KeyForge 'Card of the Day' Scheduling Tool"
-           link = "https://gitlab.cs.washington.edu/butljoh/cotdpostgenerator"
-		#description  = "A hobby project written in Golang. The tool allows contributors to enter card numbers and post parameters, generating a schedule of well-formatted Markdown posts. It queries a local cache and the KeyForge API to assemble the card statistics, properties, and images for each post. The outputted schedule can be imported to cronnit.us for automated posts on /r/KeyforgeGame." 
-		#code_link = "https://gitlab.cs.washington.edu/butljoh/cotdpostgenerator"
-		blog_link = "https://www.reddit.com/r/KeyforgeGame/search?q=%5Bcotd%5D&sort=new&restrict_sr=on"
-
-[[params.publications]]
-  #year="2020"
-
-  [[params.publications.paper]]
-		name = "Survey of Game Anti-cheat Techniques"
-		authors = "Corbin Modica, Johnathan Butler"
-		#dest  = "Lorem Ipsum Journal"
-		link = "https://mypaperishere.com"
-		#code_link = "https://thecoderepo.com"
-		#blog_link = ""
+# it is used for the copy-right section of your page
+name = "Johnathan Butler"
