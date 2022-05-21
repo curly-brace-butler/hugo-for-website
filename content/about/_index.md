@@ -24,7 +24,7 @@ affiliations:
     - affiliation:
         title: "Software Engineer"
         name: "Unity Technologies"
-        email: "email@unity3d.com"
+#       email: "non-plaintext-email@todo.com"
 
 academia:
     - course:
